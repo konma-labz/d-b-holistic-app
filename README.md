@@ -44,19 +44,6 @@ Follow the steps below to set up the app locally:
    npm run build
    ```
 
-## 🧩 Project Structure
-
-```bash
-/d-b-holistic-app
-├── /src
-│   ├── /components
-│   ├── /screens
-│   ├── /utils
-├── /public
-├── package.json
-└── README.md
-```
-
 ## 🤝 Contributing
 We welcome contributions! Feel free to:
 
